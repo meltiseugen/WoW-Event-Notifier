@@ -1,0 +1,12 @@
+## Interface: 120105
+## Title: Event Notifier
+## Notes: Text alerts for Midnight world events and Timewalking. Open with /en.
+## Author: Eugen
+## Version: 0.1.0
+## SavedVariables: EventNotifierDB
+
+Events.lua
+Calendar.lua
+Notifications.lua
+Core.lua
+Options.lua

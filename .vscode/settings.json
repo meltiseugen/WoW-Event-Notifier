@@ -1,0 +1,9 @@
+{
+    "Lua.diagnostics.globals": [
+        "PLAYER_DIFFICULTY_TIMEWALKER",
+        "SlashCmdList",
+        "DEFAULT_CHAT_FRAME",
+        "UIErrorsFrame",
+        "UISpecialFrames"
+    ]
+}

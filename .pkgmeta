@@ -1,0 +1,12 @@
+package-as: Event-Notifier
+
+ignore:
+  - .github
+  - .gitignore
+  - .pkgmeta
+  - .codex
+  - .local
+  - .vscode
+  - .idea
+  - Tests
+  - release.ps1

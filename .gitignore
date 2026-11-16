@@ -1,0 +1,7 @@
+__pycache__/
+.release/
+.local/
+.codex/
+.codex_*
+.env
+.env.*
